@@ -1,6 +1,7 @@
 1. Egor Fabrichkin.
-2. * **Phone number:** *(29) 558 30 46*
-   * **email:** *e.fabrichkin@mail.com*
+2. Contact:
+   * **Phone number:** *(29) 558-30-46*
+   * **email:** *e.fabrichkin@gmail.com*
 3. I want to study JS/CSS/HTML to change my profession, because I feel that my work doesn't bring me pleasure and I want to develop in a new direction for myself. 
 4. Basic *Java 8*.
 5. Not.
